@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Utku Aksoy 👋
 
-<!--
-**utku99/utku99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | React · React Native · TypeScript · Electron**
 
-Here are some ideas to get you started:
+- 🛠️ **Building:** Cross-platform web, mobile, and desktop applications (Healthcare, Logistics, Automotive).
+- 🔌 **Specialized in:** Real-time communications (SignalR / Socket.IO) & Native integrations (Kotlin / Zebra DataWedge).
+- 🎯 **Current Focus:** Deepening my backend / full-stack engineering skills.
+- 💬 **Ask me about:** React, React Native, State Management, and CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** TypeScript, JavaScript, Kotlin, HTML5, CSS3
+- **Frontend & Web:** React, Next.js, Vite, Tailwind CSS, MUI
+- **Mobile & Desktop:** React Native, Expo, Electron, NativeWind
+- **State & Data:** Redux Toolkit, Zustand, RTK Query, React Context
+- **Real-Time & APIs:** SignalR, Socket.IO, REST APIs, Axios
+- **DevOps & Quality:** Azure Pipelines, Sentry, SonarQube
+
+---
+
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/utku-aksoy-b28b7a232) | [Email](mailto:utkuaksoy99@hotmail.com)
